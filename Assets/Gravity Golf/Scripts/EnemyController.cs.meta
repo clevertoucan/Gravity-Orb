@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc73dc7d626ac744492a39f6bf49a6b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerMaterial: {fileID: 2100000, guid: 954e98d3134793e4eb038c39b58c6dac, type: 2}
+  - defaultEnemyMaterial: {fileID: 2100000, guid: 63956beaa50e2e245b8715c02fd531c6,
+      type: 2}
+  - player: {instanceID: 0}
+  - markerTemplate: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
